@@ -32,4 +32,6 @@ The above was taken from the readme file.
 - [x] Banner Creator
 - [ ] Custom AE Cloud
 - [ ] Shulker Box Generator
-That's it, really. Complete ones have the ticked "completed features" above added to them. 
+
+# That's it, really. 
+Complete ones have the ticked "completed features" above added to them. 
