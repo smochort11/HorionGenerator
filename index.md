@@ -5,7 +5,7 @@ Horion Generator is a fork of `https://github.com/Tiger-Tom/HorionPyScripts`, wh
 # Repository
 The repo of this project is located at `https://github.com/smochort11/HorionGenerator` and already has a pre-release version there.
 
-# Download 1.0.0 Beta
+# Download 1.0.1 Beta
 Click [here](https://github.com/smochort11/HorionGenerator/releases/download/beta2/HorionGenerator.b1.0.1.zip) to download v1.0.1 beta, which is the latest pre-release version of the Horion Generator. I plan upon Expanding upon this generator, as you should be abe to see [in the repo](https://github.com/Tiger-Tom/HorionPyScripts). 
 
 # Why I made this project
