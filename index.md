@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Horion Generator
 
-You can use the [editor on GitHub](https://github.com/smochort11/HorionGenerator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Horion Generator is a fork of `https://github.com/Tiger-Tom/HorionPyScripts`, which contains Python scripts for generating some NBTs for the Horion Anarchy utility mod. This repo improves upon the now-discontinued Python scripts by allowing you to save them to a file, instead of copying to the clipboard. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Repository
+The repo of this project is located at `https://github.com/smochort11/HorionGenerator` and already has a pre-release version there.
 
-### Markdown
+# Download 1.0.0 Beta
+Click [here](https://github.com/smochort11/HorionGenerator/releases/download/beta/HorionGenerator.1.0.0.zip) to download v1.0.0 beta, which is the latest ==pre-release== version of the Horion Generator. I plan upon Expanding upon this generator, as you should be abe to see [in the repo](https://github.com/Tiger-Tom/HorionPyScripts). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Why I made this project
+The original project by Tiger-Tom has been discontinued in May of 2021. It also had, and still has, one major flaw. The copy to clipboard functionality that each and every script has did not work. It was flawed. I needed a solution.
+So, I decided to research how to save variables to files. Which I did. Then, I forked the repo and downloaded the original one to begin my modification. This is the modified version.
+# Complete features
+- [x] Save to file
+- [ ] Save to file for all programs
+- [ ] Choose file name
+- [ ] Specific directory for the saved NBTs, to avoid clutter
+- [ ] More NBT generators, perhaps from other command generator websites.
+The above was taken from the readme file.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smochort11/HorionGenerator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Modified Scripts, thus far.
+- [x] Book Name Author Generator
+- [X] CBE Generator
+- [X] Bucket of ___
+- [x] Custom damage generator
+- [x] Enchantment generator [for items]
+- [x] End gateway teleporter
+- [x] Item Name law
+- [x] NPC CBE
+- [x] Custom Villager Trades
+- [ ] Banner Creator
+- [ ] Custom AE Cloud
+- [ ] Shulker Box Generator
+That's it, really. Complete ones have the ticked "completed features" above added to them. 
