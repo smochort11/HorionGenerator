@@ -6,7 +6,7 @@ Horion Generator is a fork of `https://github.com/Tiger-Tom/HorionPyScripts`, wh
 The repo of this project is located at `https://github.com/smochort11/HorionGenerator` and already has a pre-release version there.
 
 # Download 1.0.0 Beta
-Click [here](https://github.com/smochort11/HorionGenerator/releases/download/beta/HorionGenerator.1.0.0.zip) to download v1.0.0 beta, which is the latest ==pre-release== version of the Horion Generator. I plan upon Expanding upon this generator, as you should be abe to see [in the repo](https://github.com/Tiger-Tom/HorionPyScripts). 
+Click [here](https://github.com/smochort11/HorionGenerator/releases/download/beta2/HorionGenerator.b1.0.1.zip) to download v1.0.1 beta, which is the latest pre-release version of the Horion Generator. I plan upon Expanding upon this generator, as you should be abe to see [in the repo](https://github.com/Tiger-Tom/HorionPyScripts). 
 
 # Why I made this project
 The original project by Tiger-Tom has been discontinued in May of 2021. It also had, and still has, one major flaw. The copy to clipboard functionality that each and every script has did not work. It was flawed. I needed a solution.
@@ -29,7 +29,7 @@ The above was taken from the readme file.
 - [x] Item Name law
 - [x] NPC CBE
 - [x] Custom Villager Trades
-- [ ] Banner Creator
+- [x] Banner Creator
 - [ ] Custom AE Cloud
 - [ ] Shulker Box Generator
 That's it, really. Complete ones have the ticked "completed features" above added to them. 
