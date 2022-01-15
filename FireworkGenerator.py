@@ -56,4 +56,8 @@ for i in explosions:
 nbt = nbt + '],Flight:'+flightDur+'b}}'
 print ('USE [.nbt write] WHILE HOLDING A FIREWORK ROCKET TO APPLY EFFECTS')
 print (nbt)
-askCopyClip(nbt)
+print("NBT SAVED TO FIREWORK.TXT")
+file = open("firework.txt","w")
+file.write(nbt)
+file.close()
+end=input(">")

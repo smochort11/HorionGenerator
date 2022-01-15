@@ -1,0 +1,16 @@
+Done:
+Book Name Author Generator
+CBE
+Bucket Generator
+Damage Generator
+Enchantment Generator
+End Gateway Generator
+Fireworks Generator
+Item Name Law
+NPC CBE
+Villager Generator
+
+Waiting:
+Banner Creator
+Custom AE Cloud Generator
+Shulker Box Generator
