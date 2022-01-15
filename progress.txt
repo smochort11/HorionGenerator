@@ -6,7 +6,7 @@ Damage Generator
 Enchantment Generator
 End Gateway Generator
 Fireworks Generator
-Item Name Law
+Item Name Lore
 NPC CBE
 Villager Generator
 
